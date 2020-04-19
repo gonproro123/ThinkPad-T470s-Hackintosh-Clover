@@ -2,26 +2,26 @@
 ## Introduction
 
 ## Thinkpad T470s Hackintosh configuration. This repository contains the following folders:
--`EFI`: put this in your EFI partition in EFI folder, including BOOT, CLOVER & APPLE sub-folders
--'`L/E` kexts': kexts that should be installed in `L/E`
+- `EFI`: put this in your EFI partition in EFI folder, including BOOT, CLOVER & APPLE sub-folders
+- `L/E` kexts': kexts that should be installed in `L/E`
 
 ## Tested on `Catalina, 10.15.4` with the following hardware:
--Intel i5-7300U
--Intel HD Graphics 620
--1920x1080 (FHD)
--DDR4 2133 16GB (8Gb x 2)
--Dell Wireless 1560 (BCM94352z)
--Samsung 970evo 250GB NVMe SSD
--Audio : ALC298
+- Intel i5-7300U
+- Intel HD Graphics 620
+- 1920x1080 (FHD)
+- DDR4 2133 16GB (8Gb x 2)
+- Dell Wireless 1560 (BCM94352z)
+- Samsung 970evo 250GB NVMe SSD
+- Audio : ALC298
 
 ## It's a 95% working hackintosh, including:
--Apfs disk partitions: ApfsDriverLoader-64 efi
--Brightness control: AppleBacklightFixup kext
--Audio on speakers: AppleALC kext
--Graphical acceleration (QE/CI): WhatEverGreen kext
--Audio Jack connector
--TrackPoint / Touchpad driver: VoodooPS2.
--Trim enabled
+- Apfs disk partitions: ApfsDriverLoader-64 efi
+- Brightness control: AppleBacklightFixup kext
+- Audio on speakers: AppleALC kext
+- Graphical acceleration (QE/CI): WhatEverGreen kext
+- Audio Jack connector
+- TrackPoint / Touchpad driver: VoodooPS2.
+- Trim enabled
 
 ## Bugs
 - SD card reader (haven't tested yet)
