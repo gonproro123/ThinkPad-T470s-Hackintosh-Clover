@@ -28,8 +28,7 @@
 - Type-C only works as a charging port
 - USB next to Type-C port doesn't work
 - Speed step seems not perfect (wish you guys help me to improve it <3 )
-+ 
-`P-State ratio * 100 = Frequency in MHz
+P-State ratio * 100 = Frequency in MHz.
 CPU P-States [ 10 31 (35) ] iGPU P-States [ ].
 CPU C3-Cores [ 0 1 3 ].
 CPU C7-Cores [ 1 2 3 ].
@@ -45,7 +44,7 @@ CPU P-States [ 10 11 12 13 25 (29) 30 31 32 35 ] iGPU P-States [ 18 ].
 CPU P-States [ (8) 10 11 12 13 25 29 30 31 32 35 ] iGPU P-States [ 18 ].
 CPU P-States [ 8 10 11 12 13 (20) 25 29 30 31 32 35 ] iGPU P-States [ 18 ].
 CPU P-States [ 8 10 11 12 13 20 25 29 30 31 32 (33) 35 ] iGPU P-States [ (18) ].
-CPU P-States [ 8 10 11 12 13 20 25 29 30 (31) 32 33 35 ] iGPU P-States [ 18 ].`
+CPU P-States [ 8 10 11 12 13 20 25 29 30 (31) 32 33 35 ] iGPU P-States [ 18 ].
 # Setup
 ## BIOS Settings
 - The BIOS must be properly configured before installing MacOS.
