@@ -77,6 +77,6 @@ Now you can go through the install.
 - Rehabman.
 - Altairko.
 - Acidanthera (VoodooPS2)
-
+- Stevezhengshiqi (one-key-cpufriend)
 
 
