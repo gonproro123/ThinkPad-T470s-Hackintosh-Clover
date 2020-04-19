@@ -1,0 +1,1 @@
+# T470s_Hackintosh_Clover
