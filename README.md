@@ -27,7 +27,7 @@
 - SD card reader (haven't tested yet)
 - Type-C only works as a charging port
 - USB next to Type-C port doesn't work
-- Speed step seems not perfect (wish you guys help me to improve it <3 )
+- Speed step seems not perfect `### (wish you guys help me to improve it <3 )`
 - P-State ratio * 100 = Frequency in MHz.
 - CPU P-States [ 10 31 (35) ] iGPU P-States [ ].
 - CPU C3-Cores [ 0 1 3 ].
